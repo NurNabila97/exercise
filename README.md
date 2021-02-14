@@ -102,6 +102,7 @@ output. innerHTML = ‘
 </tbody> 
 </table>’;}
 </script> 
+
 <br><a href="flight. html" class="btn btn-default"> Logout </a> 
 </form> 
 </div> 
